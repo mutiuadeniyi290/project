@@ -1,5 +1,5 @@
 # A Sample Responsive Blogging platform
-A simple PHP Bloggin platfomr
+A simple PHP Blogging platform
 
 ## Table of Contetnts
 * [General Info](#general-information)
