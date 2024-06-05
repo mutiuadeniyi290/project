@@ -27,6 +27,12 @@ This is a blog and content management system,You can easily setup your blog and 
 
 ![Screenshot from 2024-06-05 19-04-12](https://github.com/monyslim/bloggin-for-passion/assets/114629095/5f46e2fe-5268-4bad-81c6-99cf063db6a7)
 
+![Screenshot from 2024-06-05 19-59-49](https://github.com/monyslim/bloggin-for-passion/assets/114629095/32b15bf1-c672-47a4-930b-84eaf13b0211)
+
+![Screenshot from 2024-06-05 20-00-23](https://github.com/monyslim/bloggin-for-passion/assets/114629095/0b63dae6-8aff-46ba-9c66-b81ec119b829)
+
+![Screenshot from 2024-06-05 20-00-37](https://github.com/monyslim/bloggin-for-passion/assets/114629095/82c508dd-870b-4073-b8cc-6a692aab1e10)
+
 
 ## Setup to test on XAMPP
 1. Install XAMPP or WAMPP
