@@ -3,10 +3,10 @@
 ### EDIT HERE ###
 
 // DB CONNECT INFO
-$db_host = "localhost";
+$db_host = "mysql";
 $db_name = "blog_admin_db";
 $db_user = "root";
-$db_pw = "";
+$db_pw = "password1234";
 
 // DB TABLE INFO
 $GLOBALS['hits_table_name'] = "page_hits";
